@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 🌟 个人简介
 - **联系方式**  
-   📧 1499624008@qq.com | 🌐 [CSDN技术博客](https://blog.csdn.net/m0_52031708) | 🚀 [GitHub主页](https://github.com/xianghua-2)
+   📧 1499624008@qq.com | 🌐 [-$_$--CSDN](https://blog.csdn.net/m0_52031708) | 🚀 [Xianghua-2--github主页](https://github.com/xianghua-2)
 - **教育背景**  
   🏫 中山大学 软件工程 硕士（2023.09-2026.06）  
   🏫 郑州大学 软件工程 本科（2019.09-2023.06）
