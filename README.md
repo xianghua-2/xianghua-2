@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 > - 设计Redisson分布式锁+Lua脚本实现库存精准扣减，订单处理耗时优化至2ms
 > - 搭建Redis哨兵集群，实现单节点故障自动转移，保障99.99%可用性
 
-### 📊 [SimpleDB]()（2024.07-2024.10）
+### 📊 [SimpleDB](https://github.com/xianghua-2/MYDB)（2024.07-2024.10）
 > SimpleDB致力于实现一个**简易版本MySQL**数据库(基于InnoDB引擎)。该项目涵盖了数据存储、事务管理、MVCC和索引构建等核心数据库功能，还模拟实现日志管理和事务状态查询等特性
 > 
 > **技术亮点**：
