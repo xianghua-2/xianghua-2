@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 🌟 个人简介
 - **联系方式**  
-   📧 1499624008@qq.com | 🌐 [-$_$--CSDN](https://blog.csdn.net/m0_52031708) | 🚀 [Xianghua-2--github主页](https://github.com/xianghua-2)
+   📧 🌐 [-$_$--CSDN](https://blog.csdn.net/m0_52031708) | 🚀 [Xianghua-2--github主页](https://github.com/xianghua-2)
 
 ---
 
